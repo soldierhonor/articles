@@ -26,7 +26,7 @@ It is also the opportunity to discover a new domain (3D) which is always excitin
 
 My objective is to show you that 3D effects in a web context can be implemented with ease. Thus, I will describe 3 web-ready technologies and integrate them in an application.
 
-TLDR [The repo I used to experiment with](https://github.com/RemiPeruto/web-3d-journey) (it is a simple React TS application).
+TLDR [The repo I used to experiment with](https://github.com/soldierhonor/web-3d-journey) (it is a simple React TS application).
 
 ## CSS
 
